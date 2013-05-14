@@ -1,7 +1,7 @@
 <classpath>
   <classpathentry output=".target" path="app" kind="src"></classpathentry>
   <classpathentry output=".target" path="test" kind="src"></classpathentry>
-  <classpathentry path="C:\play\samples\java\websocket-chat\target\scala-2.10\classes_managed" kind="lib"></classpathentry>
+  <classpathentry path="C:\Users\pairin\Desktop\chat\target\scala-2.10\classes_managed" kind="lib"></classpathentry>
   <classpathentry path="C:\play\repository\local\play\play_2.10\2.1.1\jars\play_2.10.jar" kind="lib"></classpathentry>
   <classpathentry path="C:\play\repository\local\play\sbt-link\2.1.1\jars\sbt-link.jar" kind="lib"></classpathentry>
   <classpathentry path="C:\play\repository\local\org.javassist\javassist\3.16.1-GA\jars\javassist.jar" kind="lib"></classpathentry>
